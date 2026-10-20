@@ -52,4 +52,4 @@ Done! Successfully moved 5 .jpg file(s).
 - Recursively searches through subfolders
 - Case-insensitive .jpg detection
 - Error handling for file operations
-- Summary of moved files
+- Summary of moved files"# CodeAlpha_Task-Automation-with-Python-Scripts" 
